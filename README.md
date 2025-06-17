@@ -15,7 +15,7 @@ Follow these steps to get up and running in **5 minutes**:
     ```bash
     brew install --cask miniconda
     conda init "$(basename "$SHELL")"
-    # Restart your terminal (or run `source ~/.zshrc` / `source ~/.bash_profile`)
+    # Restart your terminal
     ```
 
 2. **Create & Activate a New Environment**
